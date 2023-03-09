@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20d72d6f-b141-4a6f-86a7-c190cdc1e245" name="Changes" comment="" />
+    <list default="true" id="20d72d6f-b141-4a6f-86a7-c190cdc1e245" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/code/local/Amasty/Base/etc/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/code/local/Amasty/Table/etc/config.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,8 +35,10 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/code/local/Amasty/Table/etc" />
+      <recent name="$PROJECT_DIR$/app/code/local/Amasty/Base/etc" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,6 +51,7 @@
       <updated>1678379121327</updated>
       <workItem from="1678379122385" duration="248000" />
       <workItem from="1678379390941" duration="208000" />
+      <workItem from="1678379606545" duration="149000" />
     </task>
     <servers />
   </component>
