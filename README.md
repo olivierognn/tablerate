@@ -1,1 +1,1 @@
-# tablerate
+# Amasty tablerte
